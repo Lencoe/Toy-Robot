@@ -9,7 +9,7 @@ This project is a `Java` project using `maven` as build tool.
 The structure is as follow:
 * `src/main/java` - in here is some skeleton code that you must use as starting point for the problem.
 * `src/test/java` - in here are unit tests code that you must complete and extend (your unittests will also be reviewed)
-* `src/test/java/za/co/wethinkcode/lms/tests` - the files in this directory are special and should _not be edited by you_. These are the LMS tests that will need to succeed against your code as well. The LMS system will use the original (unedited) tests to test your submissions.
+
 
 ### IntelliJ
 To open it in `IntelliJ` IDE:
