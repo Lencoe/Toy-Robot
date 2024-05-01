@@ -1,0 +1,12 @@
+{
+  "gridSize": {
+    "height": 200,
+    "width": 100
+  },
+  "robotVisionField": {
+    "visibility": 10
+  },
+  "obstacles": 5,
+  "pits": null,
+  "mines": null
+}

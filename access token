@@ -1,0 +1,4 @@
+1vyM3G-4UJD6sdVNEa2L
+
+docker pull <registry-url>/<project-id>/robot-worlds-server:latest
+docker run -p 5050:5050 <registry-url>/<project-id>/robot-worlds-server:latest
