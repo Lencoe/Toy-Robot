@@ -1,10 +1,8 @@
-# Robot Worlds 21cpt03
+#Toy Robot
 
-# Welcome to our Robot Worlds!
 Robot worlds is a text-based multiplayer game that puts players against each other to fight their robots to the death!
 Who will reign victorious? There is only one way to find out...
 
-![Drop](https://media.giphy.com/media/9LBfRn4PhLiuvSElqb/giphy.gif)
 
 ## How to run
 ### Running the Client:
@@ -39,8 +37,4 @@ Here are the different robot makes, their attack range, how many shots they have
 |   **Sniper**  |   5   |   1   |    5   |
 
 
-Take a look at our wiki to get a general idea of how the game works! :)
 
-# Thank you for playing!
-
-![Thanks](https://media.giphy.com/media/Xk6awip87ICFG/giphy.gif)
